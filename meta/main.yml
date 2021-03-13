@@ -1,7 +1,7 @@
 galaxy_info:
   role_name: hello
   author: mhimuro
-  description: your role description
+  description: hello from ansible role.
   company: netpiloting
 
   # If the issue tracker for your role is not on github, uncomment the
