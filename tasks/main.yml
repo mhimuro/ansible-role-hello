@@ -1,4 +1,4 @@
 ---
 - name: output
   debug:
-    msg: 'Hello World'
+    var: msg

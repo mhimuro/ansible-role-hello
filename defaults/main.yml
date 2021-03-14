@@ -1,2 +1,3 @@
 ---
 # defaults file for test
+msg: "Hello World."
